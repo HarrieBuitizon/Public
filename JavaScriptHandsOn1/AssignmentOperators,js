@@ -1,0 +1,11 @@
+var varA = 1;
+var varB = 2;
+var varC = 3;
+console.log("Variable Assignment: varA =",varA);
+console.log("Variable Assignment: varB =", varB);
+console.log("Variable Assignment: += : ", varA+=varB);
+console.log("Variable Assignment: -= : ", varA-=varB);
+console.log("Variable Assignment: *= : ", varA*=varB);
+console.log("Variable Assignment: /= : ", varA/=varB);
+console.log("Variable Assignment: %= : ", varA%=varB);
+console.log("Variable Assignment: **= : ", varA**=varB);
